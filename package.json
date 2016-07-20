@@ -1,0 +1,26 @@
+{
+  "name": "is-valid-json",
+  "version": "1.0.0",
+  "description": "A small tool to check if a Javscript literal/object is JSON or not",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "valid json",
+    "check json",
+    "json object",
+    "json correct",
+    "javascript object",
+    "string to JSON",
+    "string valid json",
+    "json checker"
+  ],
+  "author": "Shubham Oli",
+  "repository" : {
+                  "type" : "git",
+                  "url" : "https://github.com/shubhamoli/is-valid-json.git"
+  },
+  "license": "MIT"
+}
