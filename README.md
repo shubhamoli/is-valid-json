@@ -18,6 +18,8 @@ MIT
 ```sh
 var isJSON = require('is-valid-json');
 
+var obj = "any JS literal here"   // {},{"foo":"bar"},2,"2",true,false,null,undefuned, and so on
+
 if( isJSON(obj) ){
   // Valid JSON, do something
 }
