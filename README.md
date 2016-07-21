@@ -8,7 +8,7 @@ A small tool to check if a Javscript literal/object is JSON or not
 npm install is-valid-json --save
 ```
 ### Version
-1.0.0
+1.0.2
 
 ### License
 MIT
@@ -18,12 +18,15 @@ MIT
 ```sh
 var isJSON = require('is-valid-json');
 
-var obj = "any JS literal here"   // {},{"foo":"bar"},2,"2",true,false,null,undefuned, and so on
+// "obj" can be {},{"foo":"bar"},2,"2",true,false,null,undefined, etc.
+var obj = "any JS literal here";   
 
 if( isJSON(obj) ){
+
   // Valid JSON, do something
 }
 else{
+
   // not a valid JSON, show friendly error message
 }
 ```
