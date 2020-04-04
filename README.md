@@ -1,4 +1,7 @@
 # is-valid-json
+
+<img src="https://img.shields.io/badge/npm%20downloads-%3E%20100K-green"></img>
+
 ----
 
 A small tool to check if a Javscript literal/object is JSON or not
