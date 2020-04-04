@@ -1,6 +1,7 @@
 # is-valid-json
 
 <img src="https://img.shields.io/badge/npm%20downloads-%3E%20100K-green"></img>
+<img src="https://img.shields.io/badge/LICENSE-MIT-green"></img>
 
 ----
 
